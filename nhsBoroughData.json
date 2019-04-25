@@ -1,0 +1,1232 @@
+[
+ {
+   "GSSCode": "E09000016",
+   "orgName": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Hvg",
+   "gridCol": 8,
+   "gridRow": 3,
+   "date": "Mar-19",
+   "attendees": 15994,
+   "totalAttendees": 96480
+ },
+ {
+   "GSSCode": "E09000016",
+   "orgName": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Hvg",
+   "gridCol": 8,
+   "gridRow": 3,
+   "date": "Feb-19",
+   "attendees": 14569,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000016",
+   "orgName": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Hvg",
+   "gridCol": 8,
+   "gridRow": 3,
+   "date": "Jan-19",
+   "attendees": 16428,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000016",
+   "orgName": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Hvg",
+   "gridCol": 8,
+   "gridRow": 3,
+   "date": "Dec-18",
+   "attendees": 16040,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000016",
+   "orgName": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Hvg",
+   "gridCol": 8,
+   "gridRow": 3,
+   "date": "Nov-18",
+   "attendees": 16897,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000016",
+   "orgName": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Hvg",
+   "gridCol": 8,
+   "gridRow": 3,
+   "date": "Oct-18",
+   "attendees": 16552,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000030",
+   "orgName": "BARTS HEALTH NHS TRUST",
+   "shortName": "Tow",
+   "gridCol": 6,
+   "gridRow": 4,
+   "date": "Mar-19",
+   "attendees": 27950,
+   "totalAttendees": 163236
+ },
+ {
+   "GSSCode": "E09000030",
+   "orgName": "BARTS HEALTH NHS TRUST",
+   "shortName": "Tow",
+   "gridCol": 6,
+   "gridRow": 4,
+   "date": "Feb-19",
+   "attendees": 25261,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000030",
+   "orgName": "BARTS HEALTH NHS TRUST",
+   "shortName": "Tow",
+   "gridCol": 6,
+   "gridRow": 4,
+   "date": "Jan-19",
+   "attendees": 28273,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000030",
+   "orgName": "BARTS HEALTH NHS TRUST",
+   "shortName": "Tow",
+   "gridCol": 6,
+   "gridRow": 4,
+   "date": "Dec-18",
+   "attendees": 27102,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000030",
+   "orgName": "BARTS HEALTH NHS TRUST",
+   "shortName": "Tow",
+   "gridCol": 6,
+   "gridRow": 4,
+   "date": "Nov-18",
+   "attendees": 27483,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000030",
+   "orgName": "BARTS HEALTH NHS TRUST",
+   "shortName": "Tow",
+   "gridCol": 6,
+   "gridRow": 4,
+   "date": "Oct-18",
+   "attendees": 27167,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000020",
+   "orgName": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kns",
+   "gridCol": 3,
+   "gridRow": 4,
+   "date": "Mar-19",
+   "attendees": 19746,
+   "totalAttendees": 114497
+ },
+ {
+   "GSSCode": "E09000020",
+   "orgName": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kns",
+   "gridCol": 3,
+   "gridRow": 4,
+   "date": "Feb-19",
+   "attendees": 18296,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000020",
+   "orgName": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kns",
+   "gridCol": 3,
+   "gridRow": 4,
+   "date": "Jan-19",
+   "attendees": 19897,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000020",
+   "orgName": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kns",
+   "gridCol": 3,
+   "gridRow": 4,
+   "date": "Dec-18",
+   "attendees": 18569,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000020",
+   "orgName": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kns",
+   "gridCol": 3,
+   "gridRow": 4,
+   "date": "Nov-18",
+   "attendees": 18987,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000020",
+   "orgName": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kns",
+   "gridCol": 3,
+   "gridRow": 4,
+   "date": "Oct-18",
+   "attendees": 19002,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000008",
+   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
+   "shortName": "Crd",
+   "gridCol": 5,
+   "gridRow": 6,
+   "date": "Mar-19",
+   "attendees": 7456,
+   "totalAttendees": 42152
+ },
+ {
+   "GSSCode": "E09000008",
+   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
+   "shortName": "Crd",
+   "gridCol": 5,
+   "gridRow": 6,
+   "date": "Feb-19",
+   "attendees": 6670,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000008",
+   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
+   "shortName": "Crd",
+   "gridCol": 5,
+   "gridRow": 6,
+   "date": "Jan-19",
+   "attendees": 7520,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000008",
+   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
+   "shortName": "Crd",
+   "gridCol": 5,
+   "gridRow": 6,
+   "date": "Dec-18",
+   "attendees": 7150,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000008",
+   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
+   "shortName": "Crd",
+   "gridCol": 5,
+   "gridRow": 6,
+   "date": "Nov-18",
+   "attendees": 6707,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000008",
+   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
+   "shortName": "Crd",
+   "gridCol": 5,
+   "gridRow": 6,
+   "date": "Oct-18",
+   "attendees": 6649,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000029",
+   "orgName": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Stn",
+   "gridCol": 4,
+   "gridRow": 7,
+   "date": "Mar-19",
+   "attendees": 13280,
+   "totalAttendees": 75673
+ },
+ {
+   "GSSCode": "E09000029",
+   "orgName": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Stn",
+   "gridCol": 4,
+   "gridRow": 7,
+   "date": "Feb-19",
+   "attendees": 11555,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000029",
+   "orgName": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Stn",
+   "gridCol": 4,
+   "gridRow": 7,
+   "date": "Jan-19",
+   "attendees": 13020,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000029",
+   "orgName": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Stn",
+   "gridCol": 4,
+   "gridRow": 7,
+   "date": "Dec-18",
+   "attendees": 12555,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000029",
+   "orgName": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Stn",
+   "gridCol": 4,
+   "gridRow": 7,
+   "date": "Nov-18",
+   "attendees": 12659,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000029",
+   "orgName": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+   "shortName": "Stn",
+   "gridCol": 4,
+   "gridRow": 7,
+   "date": "Oct-18",
+   "attendees": 12604,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000028",
+   "orgName": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+   "shortName": "Swr",
+   "gridCol": 5,
+   "gridRow": 5,
+   "date": "Mar-19",
+   "attendees": 14828,
+   "totalAttendees": 83859
+ },
+ {
+   "GSSCode": "E09000028",
+   "orgName": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+   "shortName": "Swr",
+   "gridCol": 5,
+   "gridRow": 5,
+   "date": "Feb-19",
+   "attendees": 13480,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000028",
+   "orgName": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+   "shortName": "Swr",
+   "gridCol": 5,
+   "gridRow": 5,
+   "date": "Jan-19",
+   "attendees": 14080,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000028",
+   "orgName": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+   "shortName": "Swr",
+   "gridCol": 5,
+   "gridRow": 5,
+   "date": "Dec-18",
+   "attendees": 13550,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000028",
+   "orgName": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+   "shortName": "Swr",
+   "gridCol": 5,
+   "gridRow": 5,
+   "date": "Nov-18",
+   "attendees": 13910,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000028",
+   "orgName": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+   "shortName": "Swr",
+   "gridCol": 5,
+   "gridRow": 5,
+   "date": "Oct-18",
+   "attendees": 14011,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000012",
+   "orgName": "HOMERTON UNIVERSITY HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Hck",
+   "gridCol": 6,
+   "gridRow": 3,
+   "date": "Mar-19",
+   "attendees": 10967,
+   "totalAttendees": 63194
+ },
+ {
+   "GSSCode": "E09000012",
+   "orgName": "HOMERTON UNIVERSITY HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Hck",
+   "gridCol": 6,
+   "gridRow": 3,
+   "date": "Feb-19",
+   "attendees": 9955,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000012",
+   "orgName": "HOMERTON UNIVERSITY HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Hck",
+   "gridCol": 6,
+   "gridRow": 3,
+   "date": "Jan-19",
+   "attendees": 11052,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000012",
+   "orgName": "HOMERTON UNIVERSITY HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Hck",
+   "gridCol": 6,
+   "gridRow": 3,
+   "date": "Dec-18",
+   "attendees": 10407,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000012",
+   "orgName": "HOMERTON UNIVERSITY HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Hck",
+   "gridCol": 6,
+   "gridRow": 3,
+   "date": "Nov-18",
+   "attendees": 10392,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000012",
+   "orgName": "HOMERTON UNIVERSITY HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Hck",
+   "gridCol": 6,
+   "gridRow": 3,
+   "date": "Oct-18",
+   "attendees": 10421,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000033",
+   "orgName": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+   "shortName": "Wst",
+   "gridCol": 4,
+   "gridRow": 4,
+   "date": "Mar-19",
+   "attendees": 10480,
+   "totalAttendees": 60773
+ },
+ {
+   "GSSCode": "E09000033",
+   "orgName": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+   "shortName": "Wst",
+   "gridCol": 4,
+   "gridRow": 4,
+   "date": "Feb-19",
+   "attendees": 9519,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000033",
+   "orgName": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+   "shortName": "Wst",
+   "gridCol": 4,
+   "gridRow": 4,
+   "date": "Jan-19",
+   "attendees": 10732,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000033",
+   "orgName": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+   "shortName": "Wst",
+   "gridCol": 4,
+   "gridRow": 4,
+   "date": "Dec-18",
+   "attendees": 10166,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000033",
+   "orgName": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+   "shortName": "Wst",
+   "gridCol": 4,
+   "gridRow": 4,
+   "date": "Nov-18",
+   "attendees": 9865,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000033",
+   "orgName": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+   "shortName": "Wst",
+   "gridCol": 4,
+   "gridRow": 4,
+   "date": "Oct-18",
+   "attendees": 10011,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000022",
+   "orgName": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Lam",
+   "gridCol": 4,
+   "gridRow": 5,
+   "date": "Mar-19",
+   "attendees": 17193,
+   "totalAttendees": 97515
+ },
+ {
+   "GSSCode": "E09000022",
+   "orgName": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Lam",
+   "gridCol": 4,
+   "gridRow": 5,
+   "date": "Feb-19",
+   "attendees": 15245,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000022",
+   "orgName": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Lam",
+   "gridCol": 4,
+   "gridRow": 5,
+   "date": "Jan-19",
+   "attendees": 16678,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000022",
+   "orgName": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Lam",
+   "gridCol": 4,
+   "gridRow": 5,
+   "date": "Dec-18",
+   "attendees": 15982,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000022",
+   "orgName": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Lam",
+   "gridCol": 4,
+   "gridRow": 5,
+   "date": "Nov-18",
+   "attendees": 16157,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000022",
+   "orgName": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Lam",
+   "gridCol": 4,
+   "gridRow": 5,
+   "date": "Oct-18",
+   "attendees": 16260,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000021",
+   "orgName": "KINGSTON HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kng",
+   "gridCol": 3,
+   "gridRow": 6,
+   "date": "Mar-19",
+   "attendees": 10266,
+   "totalAttendees": 58727
+ },
+ {
+   "GSSCode": "E09000021",
+   "orgName": "KINGSTON HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kng",
+   "gridCol": 3,
+   "gridRow": 6,
+   "date": "Feb-19",
+   "attendees": 9466,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000021",
+   "orgName": "KINGSTON HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kng",
+   "gridCol": 3,
+   "gridRow": 6,
+   "date": "Jan-19",
+   "attendees": 10050,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000021",
+   "orgName": "KINGSTON HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kng",
+   "gridCol": 3,
+   "gridRow": 6,
+   "date": "Dec-18",
+   "attendees": 9688,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000021",
+   "orgName": "KINGSTON HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kng",
+   "gridCol": 3,
+   "gridRow": 6,
+   "date": "Nov-18",
+   "attendees": 9667,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000021",
+   "orgName": "KINGSTON HOSPITAL NHS FOUNDATION TRUST",
+   "shortName": "Kng",
+   "gridCol": 3,
+   "gridRow": 6,
+   "date": "Oct-18",
+   "attendees": 9590,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000023",
+   "orgName": "LEWISHAM AND GREENWICH NHS TRUST",
+   "shortName": "Lsh",
+   "gridCol": 6,
+   "gridRow": 5,
+   "date": "Mar-19",
+   "attendees": 14307,
+   "totalAttendees": 82449
+ },
+ {
+   "GSSCode": "E09000023",
+   "orgName": "LEWISHAM AND GREENWICH NHS TRUST",
+   "shortName": "Lsh",
+   "gridCol": 6,
+   "gridRow": 5,
+   "date": "Feb-19",
+   "attendees": 13242,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000023",
+   "orgName": "LEWISHAM AND GREENWICH NHS TRUST",
+   "shortName": "Lsh",
+   "gridCol": 6,
+   "gridRow": 5,
+   "date": "Jan-19",
+   "attendees": 13874,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000023",
+   "orgName": "LEWISHAM AND GREENWICH NHS TRUST",
+   "shortName": "Lsh",
+   "gridCol": 6,
+   "gridRow": 5,
+   "date": "Dec-18",
+   "attendees": 13739,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000023",
+   "orgName": "LEWISHAM AND GREENWICH NHS TRUST",
+   "shortName": "Lsh",
+   "gridCol": 6,
+   "gridRow": 5,
+   "date": "Nov-18",
+   "attendees": 13926,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000023",
+   "orgName": "LEWISHAM AND GREENWICH NHS TRUST",
+   "shortName": "Lsh",
+   "gridCol": 6,
+   "gridRow": 5,
+   "date": "Oct-18",
+   "attendees": 13361,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000015",
+   "orgName": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+   "shortName": "Hrw",
+   "gridCol": 3,
+   "gridRow": 2,
+   "date": "Mar-19",
+   "attendees": 12753,
+   "totalAttendees": 75460
+ },
+ {
+   "GSSCode": "E09000015",
+   "orgName": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+   "shortName": "Hrw",
+   "gridCol": 3,
+   "gridRow": 2,
+   "date": "Feb-19",
+   "attendees": 11846,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000015",
+   "orgName": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+   "shortName": "Hrw",
+   "gridCol": 3,
+   "gridRow": 2,
+   "date": "Jan-19",
+   "attendees": 13019,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000015",
+   "orgName": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+   "shortName": "Hrw",
+   "gridCol": 3,
+   "gridRow": 2,
+   "date": "Dec-18",
+   "attendees": 12713,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000015",
+   "orgName": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+   "shortName": "Hrw",
+   "gridCol": 3,
+   "gridRow": 2,
+   "date": "Nov-18",
+   "attendees": 12797,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000015",
+   "orgName": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+   "shortName": "Hrw",
+   "gridCol": 3,
+   "gridRow": 2,
+   "date": "Oct-18",
+   "attendees": 12332,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000010",
+   "orgName": "NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST",
+   "shortName": "Enf",
+   "gridCol": 5,
+   "gridRow": 1,
+   "date": "Mar-19",
+   "attendees": 8955,
+   "totalAttendees": 52739
+ },
+ {
+   "GSSCode": "E09000010",
+   "orgName": "NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST",
+   "shortName": "Enf",
+   "gridCol": 5,
+   "gridRow": 1,
+   "date": "Feb-19",
+   "attendees": 8919,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000010",
+   "orgName": "NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST",
+   "shortName": "Enf",
+   "gridCol": 5,
+   "gridRow": 1,
+   "date": "Jan-19",
+   "attendees": 9045,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000010",
+   "orgName": "NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST",
+   "shortName": "Enf",
+   "gridCol": 5,
+   "gridRow": 1,
+   "date": "Dec-18",
+   "attendees": 8685,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000010",
+   "orgName": "NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST",
+   "shortName": "Enf",
+   "gridCol": 5,
+   "gridRow": 1,
+   "date": "Nov-18",
+   "attendees": 8683,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000010",
+   "orgName": "NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST",
+   "shortName": "Enf",
+   "gridCol": 5,
+   "gridRow": 1,
+   "date": "Oct-18",
+   "attendees": 8452,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000007",
+   "orgName": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+   "shortName": "Cmd",
+   "gridCol": 4,
+   "gridRow": 3,
+   "date": "Mar-19",
+   "attendees": 21438,
+   "totalAttendees": 123204
+ },
+ {
+   "GSSCode": "E09000007",
+   "orgName": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+   "shortName": "Cmd",
+   "gridCol": 4,
+   "gridRow": 3,
+   "date": "Feb-19",
+   "attendees": 19633,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000007",
+   "orgName": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+   "shortName": "Cmd",
+   "gridCol": 4,
+   "gridRow": 3,
+   "date": "Jan-19",
+   "attendees": 21070,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000007",
+   "orgName": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+   "shortName": "Cmd",
+   "gridCol": 4,
+   "gridRow": 3,
+   "date": "Dec-18",
+   "attendees": 20410,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000007",
+   "orgName": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+   "shortName": "Cmd",
+   "gridCol": 4,
+   "gridRow": 3,
+   "date": "Nov-18",
+   "attendees": 20486,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000007",
+   "orgName": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+   "shortName": "Cmd",
+   "gridCol": 4,
+   "gridRow": 3,
+   "date": "Oct-18",
+   "attendees": 20167,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000032",
+   "orgName": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Wns",
+   "gridCol": 3,
+   "gridRow": 5,
+   "date": "Mar-19",
+   "attendees": 14111,
+   "totalAttendees": 80576
+ },
+ {
+   "GSSCode": "E09000032",
+   "orgName": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Wns",
+   "gridCol": 3,
+   "gridRow": 5,
+   "date": "Feb-19",
+   "attendees": 12964,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000032",
+   "orgName": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Wns",
+   "gridCol": 3,
+   "gridRow": 5,
+   "date": "Jan-19",
+   "attendees": 13799,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000032",
+   "orgName": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Wns",
+   "gridCol": 3,
+   "gridRow": 5,
+   "date": "Dec-18",
+   "attendees": 13046,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000032",
+   "orgName": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Wns",
+   "gridCol": 3,
+   "gridRow": 5,
+   "date": "Nov-18",
+   "attendees": 13207,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000032",
+   "orgName": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Wns",
+   "gridCol": 3,
+   "gridRow": 5,
+   "date": "Oct-18",
+   "attendees": 13449,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000017",
+   "orgName": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Hdn",
+   "gridCol": 1,
+   "gridRow": 3,
+   "date": "Mar-19",
+   "attendees": 6092,
+   "totalAttendees": 35768
+ },
+ {
+   "GSSCode": "E09000017",
+   "orgName": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Hdn",
+   "gridCol": 1,
+   "gridRow": 3,
+   "date": "Feb-19",
+   "attendees": 5594,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000017",
+   "orgName": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Hdn",
+   "gridCol": 1,
+   "gridRow": 3,
+   "date": "Jan-19",
+   "attendees": 6272,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000017",
+   "orgName": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Hdn",
+   "gridCol": 1,
+   "gridRow": 3,
+   "date": "Dec-18",
+   "attendees": 6264,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000017",
+   "orgName": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Hdn",
+   "gridCol": 1,
+   "gridRow": 3,
+   "date": "Nov-18",
+   "attendees": 5982,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000017",
+   "orgName": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Hdn",
+   "gridCol": 1,
+   "gridRow": 3,
+   "date": "Oct-18",
+   "attendees": 5564,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000001",
+   "orgName": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Cty",
+   "gridCol": 5,
+   "gridRow": 4,
+   "date": "Mar-19",
+   "attendees": 12678,
+   "totalAttendees": 72830
+ },
+ {
+   "GSSCode": "E09000001",
+   "orgName": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Cty",
+   "gridCol": 5,
+   "gridRow": 4,
+   "date": "Feb-19",
+   "attendees": 11637,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000001",
+   "orgName": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Cty",
+   "gridCol": 5,
+   "gridRow": 4,
+   "date": "Jan-19",
+   "attendees": 12165,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000001",
+   "orgName": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Cty",
+   "gridCol": 5,
+   "gridRow": 4,
+   "date": "Dec-18",
+   "attendees": 11701,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000001",
+   "orgName": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Cty",
+   "gridCol": 5,
+   "gridRow": 4,
+   "date": "Nov-18",
+   "attendees": 12294,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000001",
+   "orgName": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+   "shortName": "Cty",
+   "gridCol": 5,
+   "gridRow": 4,
+   "date": "Oct-18",
+   "attendees": 12355,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000019",
+   "orgName": "WHITTINGTON HEALTH NHS TRUST",
+   "shortName": "Isl",
+   "gridCol": 5,
+   "gridRow": 3,
+   "date": "Mar-19",
+   "attendees": 9720,
+   "totalAttendees": 55728
+ },
+ {
+   "GSSCode": "E09000019",
+   "orgName": "WHITTINGTON HEALTH NHS TRUST",
+   "shortName": "Isl",
+   "gridCol": 5,
+   "gridRow": 3,
+   "date": "Feb-19",
+   "attendees": 8868,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000019",
+   "orgName": "WHITTINGTON HEALTH NHS TRUST",
+   "shortName": "Isl",
+   "gridCol": 5,
+   "gridRow": 3,
+   "date": "Jan-19",
+   "attendees": 9594,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000019",
+   "orgName": "WHITTINGTON HEALTH NHS TRUST",
+   "shortName": "Isl",
+   "gridCol": 5,
+   "gridRow": 3,
+   "date": "Dec-18",
+   "attendees": 9219,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000019",
+   "orgName": "WHITTINGTON HEALTH NHS TRUST",
+   "shortName": "Isl",
+   "gridCol": 5,
+   "gridRow": 3,
+   "date": "Nov-18",
+   "attendees": 9245,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000019",
+   "orgName": "WHITTINGTON HEALTH NHS TRUST",
+   "shortName": "Isl",
+   "gridCol": 5,
+   "gridRow": 3,
+   "date": "Oct-18",
+   "attendees": 9082,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000002",
+   "orgName": "",
+   "shortName": "Bar",
+   "gridCol": 8,
+   "gridRow": 4,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000003",
+   "orgName": "",
+   "shortName": "Brn",
+   "gridCol": 4,
+   "gridRow": 2,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000004",
+   "orgName": "",
+   "shortName": "Bxl",
+   "gridCol": 8,
+   "gridRow": 5,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000005",
+   "orgName": "",
+   "shortName": "Brt",
+   "gridCol": 3,
+   "gridRow": 3,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000006",
+   "orgName": "",
+   "shortName": "Brm",
+   "gridCol": 6,
+   "gridRow": 6,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000009",
+   "orgName": "",
+   "shortName": "Elg",
+   "gridCol": 2,
+   "gridRow": 3,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000011",
+   "orgName": "",
+   "shortName": "Grn",
+   "gridCol": 7,
+   "gridRow": 5,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000013",
+   "orgName": "",
+   "shortName": "Hms",
+   "gridCol": 2,
+   "gridRow": 4,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000014",
+   "orgName": "",
+   "shortName": "Hgy",
+   "gridCol": 5,
+   "gridRow": 2,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000018",
+   "orgName": "",
+   "shortName": "Hns",
+   "gridCol": 1,
+   "gridRow": 4,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000024",
+   "orgName": "",
+   "shortName": "Mrt",
+   "gridCol": 4,
+   "gridRow": 6,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000025",
+   "orgName": "",
+   "shortName": "Nwm",
+   "gridCol": 7,
+   "gridRow": 4,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000026",
+   "orgName": "",
+   "shortName": "Rdb",
+   "gridCol": 7,
+   "gridRow": 3,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000027",
+   "orgName": "",
+   "shortName": "Rch",
+   "gridCol": 2,
+   "gridRow": 5,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ },
+ {
+   "GSSCode": "E09000031",
+   "orgName": "",
+   "shortName": "Wth",
+   "gridCol": 6,
+   "gridRow": 2,
+   "date": "",
+   "attendees": 0,
+   "totalAttendees": null
+ }
+]
