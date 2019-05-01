@@ -1,1513 +1,1297 @@
 [
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Jan-18",
    "attendees": 21317
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Feb-18",
    "attendees": 18668
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Mar-18",
    "attendees": 21452
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Apr-18",
    "attendees": 20369
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "May-18",
    "attendees": 21582
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Jun-18",
    "attendees": 21187
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Jul-18",
    "attendees": 19303
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Aug-18",
    "attendees": 15473
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Sep-18",
    "attendees": 16309
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Oct-18",
    "attendees": 16552
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Nov-18",
    "attendees": 16897
  },
  {
    "GSSCode": "E09000002",
-   "orgName": "BARKING, HAVERING & REDBRIDGE",
-   "shortName": "Hvg",
+   "hospital": "BARKING, HAVERING & REDBRIDGE",
    "date": "Dec-18",
    "attendees": 16040
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Jan-18",
    "attendees": 27281
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Feb-18",
    "attendees": 25341
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Mar-18",
    "attendees": 28465
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Apr-18",
    "attendees": 26727
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "May-18",
    "attendees": 28102
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Jun-18",
    "attendees": 26939
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Jul-18",
    "attendees": 28357
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Aug-18",
    "attendees": 25099
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Sep-18",
    "attendees": 25934
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Oct-18",
    "attendees": 27167
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Nov-18",
    "attendees": 27483
  },
  {
    "GSSCode": "E09000030",
-   "orgName": "BARTS ",
-   "shortName": "Tow",
+   "hospital": "BARTS ",
    "date": "Dec-18",
    "attendees": 27102
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Jan-18",
    "attendees": 17990
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Feb-18",
    "attendees": 16205
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Mar-18",
    "attendees": 18906
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Apr-18",
    "attendees": 17309
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "May-18",
    "attendees": 18745
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Jun-18",
    "attendees": 17999
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Jul-18",
    "attendees": 18560
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Aug-18",
    "attendees": 16715
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Sep-18",
    "attendees": 17777
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Oct-18",
    "attendees": 19002
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Nov-18",
    "attendees": 18987
  },
  {
    "GSSCode": "E09000020",
-   "orgName": "CHELSEA & WESTMINSTER",
-   "shortName": "Kns",
+   "hospital": "CHELSEA & WESTMINSTER",
    "date": "Dec-18",
    "attendees": 18569
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Jan-18",
    "attendees": 6987
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Feb-18",
    "attendees": 6309
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Mar-18",
    "attendees": 6672
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Apr-18",
    "attendees": 6607
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "May-18",
    "attendees": 6742
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Jun-18",
    "attendees": 6234
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Jul-18",
    "attendees": 6420
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Aug-18",
    "attendees": 6093
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Sep-18",
    "attendees": 6434
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Oct-18",
    "attendees": 6649
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Nov-18",
    "attendees": 6707
  },
  {
    "GSSCode": "E09000008",
-   "orgName": "CROYDON HEALTH SERVICES NHS TRUST",
-   "shortName": "Crd",
+   "hospital": "CROYDON",
    "date": "Dec-18",
    "attendees": 7150
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Jan-18",
    "attendees": 12541
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Feb-18",
    "attendees": 11224
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Mar-18",
    "attendees": 12960
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Apr-18",
    "attendees": 12017
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "May-18",
    "attendees": 13029
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Jun-18",
    "attendees": 12523
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Jul-18",
    "attendees": 12956
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Aug-18",
    "attendees": 11737
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Sep-18",
    "attendees": 12403
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Oct-18",
    "attendees": 12604
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Nov-18",
    "attendees": 12659
  },
  {
    "GSSCode": "E09000029",
-   "orgName": "EPSOM & ST HELIER ",
-   "shortName": "Stn",
+   "hospital": "EPSOM & ST HELIER ",
    "date": "Dec-18",
    "attendees": 12555
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Jan-18",
    "attendees": 12739
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Feb-18",
    "attendees": 11904
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Mar-18",
    "attendees": 13467
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Apr-18",
    "attendees": 12877
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "May-18",
    "attendees": 13813
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Jun-18",
    "attendees": 13570
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Jul-18",
    "attendees": 13847
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Aug-18",
    "attendees": 12819
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Sep-18",
    "attendees": 13090
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Oct-18",
    "attendees": 14011
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Nov-18",
    "attendees": 13910
  },
  {
    "GSSCode": "E09000028",
-   "orgName": "GUY'S & ST THOMAS' ",
-   "shortName": "Swr",
+   "hospital": "GUY'S & ST THOMAS' ",
    "date": "Dec-18",
    "attendees": 13550
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Jan-18",
    "attendees": 10679
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Feb-18",
    "attendees": 9545
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Mar-18",
    "attendees": 10768
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Apr-18",
    "attendees": 10520
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "May-18",
    "attendees": 10988
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Jun-18",
    "attendees": 10547
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Jul-18",
    "attendees": 10780
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Aug-18",
    "attendees": 9696
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Sep-18",
    "attendees": 10120
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Oct-18",
    "attendees": 10421
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Nov-18",
    "attendees": 10392
  },
  {
    "GSSCode": "E09000012",
-   "orgName": "HOMERTON ",
-   "shortName": "Hck",
+   "hospital": "HOMERTON ",
    "date": "Dec-18",
    "attendees": 10407
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Jan-18",
    "attendees": 9999
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Feb-18",
    "attendees": 9033
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Mar-18",
    "attendees": 10057
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Apr-18",
    "attendees": 9645
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "May-18",
    "attendees": 10149
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Jun-18",
    "attendees": 9773
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Jul-18",
    "attendees": 10174
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Aug-18",
    "attendees": 9501
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Sep-18",
    "attendees": 9426
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Oct-18",
    "attendees": 10011
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Nov-18",
    "attendees": 9865
  },
  {
    "GSSCode": "E09000033",
-   "orgName": "IMPERIAL COLLEGE ",
-   "shortName": "Wst",
+   "hospital": "IMPERIAL COLLEGE ",
    "date": "Dec-18",
    "attendees": 10166
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Jan-18",
    "attendees": 16668
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Feb-18",
    "attendees": 14353
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Mar-18",
    "attendees": 16452
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Apr-18",
    "attendees": 15414
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "May-18",
    "attendees": 16701
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Jun-18",
    "attendees": 16105
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Jul-18",
    "attendees": 16777
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Aug-18",
    "attendees": 15338
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Sep-18",
    "attendees": 15758
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Oct-18",
    "attendees": 16260
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Nov-18",
    "attendees": 16157
  },
  {
    "GSSCode": "E09000022",
-   "orgName": "KING'S COLLEGE",
-   "shortName": "Lam",
+   "hospital": "KING'S COLLEGE",
    "date": "Dec-18",
    "attendees": 15982
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Jan-18",
    "attendees": 9047
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Feb-18",
    "attendees": 8124
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Mar-18",
    "attendees": 9278
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Apr-18",
    "attendees": 8854
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "May-18",
    "attendees": 9578
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Jun-18",
    "attendees": 9157
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Jul-18",
    "attendees": 9667
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Aug-18",
    "attendees": 8748
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Sep-18",
    "attendees": 9158
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Oct-18",
    "attendees": 9590
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Nov-18",
    "attendees": 9667
  },
  {
    "GSSCode": "E09000021",
-   "orgName": "KINGSTON ",
-   "shortName": "Kng",
+   "hospital": "KINGSTON ",
    "date": "Dec-18",
    "attendees": 9688
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Jan-18",
    "attendees": 13162
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Feb-18",
    "attendees": 11969
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Mar-18",
    "attendees": 13439
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Apr-18",
    "attendees": 12477
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "May-18",
    "attendees": 13259
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Jun-18",
    "attendees": 12925
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Jul-18",
    "attendees": 13220
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Aug-18",
    "attendees": 11960
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Sep-18",
    "attendees": 12446
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Oct-18",
    "attendees": 13361
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Nov-18",
    "attendees": 13926
  },
  {
    "GSSCode": "E09000023",
-   "orgName": "LEWISHAM AND GREENWICH ",
-   "shortName": "Lsh",
+   "hospital": "LEWISHAM AND GREENWICH ",
    "date": "Dec-18",
    "attendees": 13739
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Jan-18",
    "attendees": 12208
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Feb-18",
    "attendees": 11140
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Mar-18",
    "attendees": 12581
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Apr-18",
    "attendees": 11537
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "May-18",
    "attendees": 12031
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Jun-18",
    "attendees": 11606
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Jul-18",
    "attendees": 11922
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Aug-18",
    "attendees": 11123
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Sep-18",
    "attendees": 11594
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Oct-18",
    "attendees": 12332
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Nov-18",
    "attendees": 12797
  },
  {
    "GSSCode": "E09000015",
-   "orgName": "LONDON NORTH WEST ",
-   "shortName": "Hrw",
+   "hospital": "LONDON NORTH WEST ",
    "date": "Dec-18",
    "attendees": 12713
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Jan-18",
    "attendees": 15685
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Feb-18",
    "attendees": 14041
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Mar-18",
    "attendees": 15509
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Apr-18",
    "attendees": 8138
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "May-18",
    "attendees": 8486
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Jun-18",
    "attendees": 8214
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Jul-18",
    "attendees": 8313
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Aug-18",
    "attendees": 7590
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Sep-18",
    "attendees": 7828
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Oct-18",
    "attendees": 8452
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Nov-18",
    "attendees": 8683
  },
  {
    "GSSCode": "E09000010",
-   "orgName": "NORTH MIDDLESEX  ",
-   "shortName": "Enf",
+   "hospital": "NORTH MIDDLESEX  ",
    "date": "Dec-18",
    "attendees": 8685
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Jan-18",
    "attendees": 19763
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Feb-18",
    "attendees": 17829
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Mar-18",
    "attendees": 20453
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Apr-18",
    "attendees": 18962
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "May-18",
    "attendees": 20604
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Jun-18",
    "attendees": 19472
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Jul-18",
    "attendees": 20481
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Aug-18",
    "attendees": 18378
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Sep-18",
    "attendees": 19076
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Oct-18",
    "attendees": 20167
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Nov-18",
    "attendees": 20486
  },
  {
    "GSSCode": "E09000007",
-   "orgName": "ROYAL FREE LONDON ",
-   "shortName": "Cmd",
+   "hospital": "ROYAL FREE LONDON ",
    "date": "Dec-18",
    "attendees": 20410
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Jan-18",
    "attendees": 12982
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Feb-18",
    "attendees": 11760
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Mar-18",
    "attendees": 13421
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Apr-18",
    "attendees": 12626
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "May-18",
    "attendees": 13625
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Jun-18",
    "attendees": 13225
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Jul-18",
    "attendees": 13749
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Aug-18",
    "attendees": 12596
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Sep-18",
    "attendees": 13023
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Oct-18",
    "attendees": 13449
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Nov-18",
    "attendees": 13207
  },
  {
    "GSSCode": "E09000032",
-   "orgName": "ST GEORGE'S  ",
-   "shortName": "Wns",
+   "hospital": "ST GEORGE'S  ",
    "date": "Dec-18",
    "attendees": 13046
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Jan-18",
    "attendees": 5617
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Feb-18",
    "attendees": 5088
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Mar-18",
    "attendees": 5744
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Apr-18",
    "attendees": 5287
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "May-18",
    "attendees": 5472
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Jun-18",
    "attendees": 5313
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Jul-18",
    "attendees": 5397
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Aug-18",
    "attendees": 5084
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Sep-18",
    "attendees": 5333
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Oct-18",
    "attendees": 5564
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Nov-18",
    "attendees": 5982
  },
  {
    "GSSCode": "E09000017",
-   "orgName": "THE HILLINGDON ",
-   "shortName": "Hdn",
+   "hospital": "THE HILLINGDON ",
    "date": "Dec-18",
    "attendees": 6264
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Jan-18",
    "attendees": 11589
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Feb-18",
    "attendees": 10692
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Mar-18",
    "attendees": 11760
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Apr-18",
    "attendees": 11202
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "May-18",
    "attendees": 12138
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Jun-18",
    "attendees": 11577
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Jul-18",
    "attendees": 12143
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Aug-18",
    "attendees": 11221
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Sep-18",
    "attendees": 11241
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Oct-18",
    "attendees": 12355
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Nov-18",
    "attendees": 12294
  },
  {
    "GSSCode": "E09000001",
-   "orgName": " UNIVERSITY COLLEGE LONDON ",
-   "shortName": "Cty",
+   "hospital": "UNIVERSITY COLLEGE LONDON ",
    "date": "Dec-18",
    "attendees": 11701
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Jan-18",
    "attendees": 8899
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Feb-18",
    "attendees": 8085
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Mar-18",
    "attendees": 9218
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Apr-18",
    "attendees": 8646
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "May-18",
    "attendees": 9229
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Jun-18",
    "attendees": 8699
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Jul-18",
    "attendees": 9288
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Aug-18",
    "attendees": 8159
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Sep-18",
    "attendees": 8897
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Oct-18",
    "attendees": 9082
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Nov-18",
    "attendees": 9245
  },
  {
    "GSSCode": "E09000019",
-   "orgName": "WHITTINGTON ",
-   "shortName": "Isl",
+   "hospital": "WHITTINGTON ",
    "date": "Dec-18",
    "attendees": 9219
  }
